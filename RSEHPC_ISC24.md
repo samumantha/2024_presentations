@@ -16,6 +16,14 @@ RSEHPC@ISC24
 
 ---
 
+# Journey overview
+
+---
+
+# Writing code
+
+---
+
 # CodeRefinery 
 
 ---
@@ -29,6 +37,10 @@ RSEHPC@ISC24
 ---
 
 # Instructor training
+
+---
+
+# Not a CodeRefinery meeting
 
 ---
 
