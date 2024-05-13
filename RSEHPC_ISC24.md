@@ -93,12 +93,11 @@ Carpentries mentoring program with Jeanetta, first RSE meetings (by accident), R
 # Continuing the journey
 
 CR: co-instructing, material dev, organizing, community building, outreach -> Community manager
-CSC: research support, email, weekly user support sessions, training (HPC beginner for GIS, Spatial ML), lots of ideas and contacts from CR
+CSC: research support, email, weekly user support sessions, training (HPC beginner for GIS, Spatial ML), lots of ideas and contacts from CR; involved in bringing and coordinating RSE in Finland
 
 Nordic-RSE: Outreach
 
-Strong connection, nowadays it is my job to combine these, bridging gaps between researchers and IT experts, Collaboartive training, community building
-
+Strong connection, nowadays it is my job to combine these, bridging gaps between researchers and IT experts, Collaboartive training, community building;
 Picture: Connection between work and CR/Nordic-RSE arrows benefiting each other
 
 ---
