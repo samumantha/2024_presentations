@@ -7,10 +7,11 @@ class: center, middle, gray-background
 ## - My gateway into Research Software Engineering
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science
+samantha.wittke@csc.fi
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-RSEHPC@ISC24
+RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 ---
 
