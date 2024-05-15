@@ -12,11 +12,12 @@ Samantha Wittke, CodeRefinery, CSC - IT Center for Science
 
 RSEHPC@ISC24
 
-]
-
 ---
 
 # How it all started ...
+
+<br>
+<br>
 
 <img src="img/swamp.png"
      alt="Swamp of sorrows, long computations, big data, wrong filenames, Graphical User Interfaces"
@@ -26,7 +27,7 @@ RSEHPC@ISC24
 
 # ~2018
 
-.left-column50[
+.left-column30[
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
@@ -34,7 +35,7 @@ RSEHPC@ISC24
 
 ]
 
-.left-column50[
+.left-column70[
 - **Basic and collaborative version control**
 - **Reproducible dependencies, environments, and computational steps**
 - **Software and data licensing and software citation**
@@ -69,6 +70,9 @@ RSEHPC@ISC24
 
 # Community
 
+<br>
+<br>
+
 .center[
 
 <img src="img/community.png"
@@ -92,7 +96,10 @@ RSEHPC@ISC24
 
 # Find your people
 
-Join communities, start your own, local chapters, ... find your kind of people.
+Join communities, start your own, local chapters, ... 
+
+<br>
+<br>
 
 .center[
 
@@ -102,5 +109,4 @@ Join communities, start your own, local chapters, ... find your kind of people.
 ]
 
 
----
 
