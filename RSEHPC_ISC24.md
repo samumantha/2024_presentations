@@ -4,7 +4,7 @@ class: center, middle, gray-background
      alt="CodeRefinery logo"
      style="height: 250px;"/>
 
-## - My gateway into Rsearch Software Engineering
+## - My gateway into Research Software Engineering
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science
 
@@ -25,7 +25,7 @@ RSEHPC@ISC24
 
 ---
 
-# ~2018
+# But then in 2018 ...
 
 .left-column30[
 
@@ -64,7 +64,6 @@ RSEHPC@ISC24
      alt="Steps from learner to helper/expert helper, instructor and organizer and beyond"
      style="width: 100%;"/>
 ]
-
 
 ---
 
