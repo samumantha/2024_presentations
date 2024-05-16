@@ -19,7 +19,7 @@ Slides built with cicero.xyz
 
 ---
 
-# How it all started ...
+# How it started ...
 
 <br>
 <br>
@@ -52,8 +52,9 @@ Slides built with cicero.xyz
 ]
 
 <br>
-
 <br>
+<br>
+
 
 .center[
 
@@ -78,7 +79,6 @@ Slides built with cicero.xyz
 # The community
 
 <br>
-<br>
 
 .center[
 
@@ -91,7 +91,6 @@ Slides built with cicero.xyz
 
 # Connections
 
-<br>
 
 .center[
 
@@ -105,7 +104,7 @@ Slides built with cicero.xyz
 
 # Find your people
 
-Join communities, start your own, local chapters, projects that interest you,  ... 
+Join communities, local chapters, projects that interest you, mentoring programmes, start your own,  ... 
 
 <br>
 <br>
