@@ -28,11 +28,11 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 # But then in 2018 ...
 
-.left-column20[
+.left-column30[
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
-     style="width: 100%;"/>
+     style="width: 90%;"/>
 
 ]
 
@@ -46,6 +46,8 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 - **Modular code development**
 
 ]
+
+<br>
 
 <br>
 
@@ -69,7 +71,7 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 ---
 
-# Community
+# The community
 
 <br>
 <br>
@@ -78,12 +80,14 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 <img src="img/community.png"
      alt="workshops, chat, meetings, other workshops"
-     style="width: 100%;"/>
+     style="width: 50%;"/>
 ]
 
 ---
 
-# Connection to RSE and HPC
+# Connections
+
+<br>
 
 .center[
 
@@ -97,7 +101,7 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 # Find your people
 
-Join communities, start your own, local chapters, ... 
+Join communities, start your own, local chapters, projects that interest you,  ... 
 
 <br>
 <br>
