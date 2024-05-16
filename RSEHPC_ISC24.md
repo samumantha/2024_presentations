@@ -82,7 +82,7 @@ Slides built with cicero.xyz
 
 <img src="img/community.png"
      alt="workshops, chat, meetings, other workshops"
-     style="width: 50%;"/>
+     style="width: 65%;"/>
 ]
 
 ---
