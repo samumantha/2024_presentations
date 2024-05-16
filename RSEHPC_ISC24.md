@@ -13,8 +13,6 @@ samantha.wittke@csc.fi
 
 ### RSEHPC@ISC24
 
-<br>
-
 Slides built with cicero.xyz
 
 ---
