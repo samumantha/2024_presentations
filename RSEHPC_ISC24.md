@@ -28,7 +28,7 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 # But then in 2018 ...
 
-.left-column30[
+.left-column20[
 
 <img src="img/coderefinery.png"
      alt="CodeRefinery logo"
@@ -37,7 +37,7 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 ]
 
 .left-column70[
-- **Basic and collaborative version control**
+- **Basics and collaborative version control**
 - **Reproducible dependencies, environments, and computational steps**
 - **Software and data licensing and software citation**
 - **How to document your research software**
@@ -47,12 +47,13 @@ RSEHPC@ISC24 ; Slides built with cicero.xyz
 
 ]
 
+<br>
 
 .center[
 
 <img src="img/welcome.png"
      alt="From CodeRefinery workshop, talking to helpers and instructors to being welcome into the community"
-     style="width: 100%;"/>
+     style="width: 80%;"/>
 ]
 
 ---
