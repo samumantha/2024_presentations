@@ -4,7 +4,7 @@ class: center, middle, gray-background
      alt="CodeRefinery logo"
      style="height: 250px;"/>
 
-## - My gateway into Research Software Engineering
+## - My pathway into Research Software Engineering
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science,
 samantha.wittke@csc.fi
