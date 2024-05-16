@@ -25,13 +25,13 @@ body {
 }
 
 .gray-background {
-  background: #d6cbd6;
+  background: #a1f097;
 }
 
 .fat {
   font-family: 'Abril Fatface', cursive;
   font-size: 1.8em;
-  color: #856190;
+  color: #679061;
 }
 
 ul {
@@ -41,7 +41,7 @@ ul {
 h1,
 h2,
 h3 {
-  color: #71137d;
+  color: #137d21;
 }
 
 a {
