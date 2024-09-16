@@ -31,15 +31,15 @@ PhD Candidate - Geoinformatics/Remote Sensing - Finnish Geospatial Research Inst
      style="height: 250px;"/>
 ]
 
-First code (Python) outside university (R, Java) in beginning of PhD; excitement for FAIR research software development through CodeRefinery <3
+First code (Python) outside university (R, Java) in beginning of PhD; excitement for FAIR research software development through CodeRefinery <3 Since then wanted to pass this on.
 
 ---
 
 # What do I do?
 
-Supporting researchers with their first steps in High Performance Computing, lowering barrier, training, docs and tuturials, outreach.
+Supporting researchers with their first steps in scientific computing and High Performance Computing, lowering barrier to asking questions and using resources, training, docs and tuturials, outreach.
 
-CodeRefinery - teaching, organizing, outreach, facilitation , RSE for researchers 
+CodeRefinery - teaching, organizing, outreach, facilitation , "RSE for researchers "
 
 Sharing what helped me, support discoverability
 
