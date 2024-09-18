@@ -2,7 +2,7 @@ class: center, middle, gray-background
 
 
 
-## Community building in the Nordics
+## XX
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science,
 samantha.wittke@csc.fi
@@ -17,9 +17,15 @@ Slides built with cicero.xyz
 
 # Who am I professionally?
 
+.center[
+<img src="img/coderefinery.png"
+     alt="CodeRefinery logo"
+     style="height: 250px;"/>
+]
+
 Application Specialist at CSC - IT Center for Science in Finland
 
-Community Manager for CodeRefinery project
+Community Manager for CodeRefinery project, Nordic-RSE board member
 
 PhD Candidate - Geoinformatics/Remote Sensing - Finnish Geospatial Research Institute and Aalto University
 
@@ -48,6 +54,10 @@ Opening the doors to Nordic-RSE, sharing, exchanging
 ---
 
 # My plans for the fellowship
+
+Satellite event at Nordic-RSE
+
+Outreach & visibility
 
 Community building and facilitating the exchange, visibility
 
