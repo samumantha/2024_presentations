@@ -1,15 +1,18 @@
 class: center, middle, gray-background
 
+.center[
+     <img src="img/ssi.png"
+     alt="CodeRefinery logo"
+     style="height: 150px;"/>
+]
 
-
-## XX
+## Software Sustainability Institute Fellowship application '24
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science,
 samantha.wittke@csc.fi
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-### SSI Fellowship application '24
 
 Slides built with cicero.xyz
 
@@ -18,74 +21,57 @@ Slides built with cicero.xyz
 # Who am I professionally?
 
 .center[
-<img src="img/coderefinery.png"
+     <img src="img/CSC_CR_S2.png"
      alt="CodeRefinery logo"
-     style="height: 250px;"/>
+     style="height: 150px;"/>
 ]
 
-Application Specialist at CSC - IT Center for Science in Finland
 
-Community Manager for CodeRefinery project, Nordic-RSE board member
-
-PhD Candidate - Geoinformatics/Remote Sensing - Finnish Geospatial Research Institute and Aalto University
+.footnote[Sentinel-2 image from https://eox.at/2015/12/understanding-sentinel-2-satellite-data/]
 
 ---
+
+# Where do I come from?
 
 .center[
-<img src="img/coderefinery.png"
+     <img src="img/swamp.png"
+     alt="CodeRefinery logo"
+     style="height: 150px;"/>
+]
+
+---
+
+# What do I do now?
+
+.center[
+<img src="img/community.png"
      alt="CodeRefinery logo"
      style="height: 250px;"/>
 ]
 
-First code (Python) outside university (R, Java) in beginning of PhD; excitement for FAIR research software development through CodeRefinery <3 Since then wanted to pass this on.
+---
+
+# Why am I applying for the fellowship
+
+.center[
+<img src="img/RSE_wondering.png"
+     alt="CodeRefinery logo"
+     style="height: 100px;"/>
+]
 
 ---
 
-# What do I do?
+# My plan for the fellowship
 
-Supporting researchers with their first steps in scientific computing and High Performance Computing, lowering barrier to asking questions and using resources, training, docs and tuturials, outreach.
+1. Engage with RSE leaders and enablers
 
-CodeRefinery - teaching, organizing, outreach, facilitation , "RSE for researchers "
+2. Identify and connect with Finnish RSEs
 
-Sharing what helped me, support discoverability
+3. Organize an in-person Finnsish RSE meet-up
 
-Opening the doors to Nordic-RSE, sharing, exchanging
+4. Promote participation in (Nordic-)RSE activities
 
----
-
-# My plans for the fellowship
-
-Satellite event at Nordic-RSE
-
-Outreach & visibility
-
-Community building and facilitating the exchange, visibility
-
-Bringing in news from other RSE communities
-
-Finnish and Nordic-RSE and CodeRefinery, bringing in Geoinformatics
 
 ---
 
-# Background - Why is it needed?
-
-No funding, little support, but motivated people
-
-Learning from experts in Nordics and UK
-
-RSEs exist but they might not know it yet
-
-RSE practices not well known among (geoinformatics) researchers 
-
----
-
-# What specifically?
-
-1. Get to know RSE situation in Nordics 
-2. Compare with other countries and survey how they support the community,  build network
-3. Support Nordic_RSE conference organization and facilitate workshop
-4. Collect what I learned from others and from potential members in blogposts
-
----
-
-Let's build a community!
+# Thank you for your time and consideration!
