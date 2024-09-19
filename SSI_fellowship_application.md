@@ -8,7 +8,7 @@ class: center, middle
 
 <br>
 
-## Software Sustainability Institute Fellowship application '24
+## Software Sustainability Institute Fellowship application '25
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science,
 samantha.wittke@csc.fi
