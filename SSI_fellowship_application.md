@@ -1,4 +1,4 @@
-class: center, middle, gray-background
+class: center, middle
 
 .center[
      <img src="img/ssi.png"
