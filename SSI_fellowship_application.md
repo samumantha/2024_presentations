@@ -6,6 +6,8 @@ class: center, middle, gray-background
      style="height: 150px;"/>
 ]
 
+<br>
+
 ## Software Sustainability Institute Fellowship application '24
 
 Samantha Wittke, CodeRefinery, CSC - IT Center for Science,
@@ -20,6 +22,8 @@ Slides built with cicero.xyz
 
 # Who am I professionally?
 
+<br>
+<br>
 .center[
      <img src="img/CSC_CR_S2.png"
      alt="CodeRefinery logo"
@@ -33,20 +37,25 @@ Slides built with cicero.xyz
 
 # Where do I come from?
 
+<br>
+
 .center[
      <img src="img/swamp.png"
      alt="CodeRefinery logo"
-     style="height: 150px;"/>
+     style="height: 250px;"/>
 ]
 
 ---
 
 # What do I do now?
 
+<br>
+
+
 .center[
 <img src="img/community.png"
      alt="CodeRefinery logo"
-     style="height: 250px;"/>
+     style="height: 350px;"/>
 ]
 
 ---
@@ -56,12 +65,15 @@ Slides built with cicero.xyz
 .center[
 <img src="img/RSE_wondering.png"
      alt="CodeRefinery logo"
-     style="height: 100px;"/>
+     style="height: 300px;"/>
 ]
 
 ---
 
 # My plan for the fellowship
+
+<br>
+<br>
 
 1. Engage with RSE leaders and enablers
 
@@ -73,5 +85,8 @@ Slides built with cicero.xyz
 
 
 ---
+
+<br>
+<br>
 
 # Thank you for your time and consideration!
