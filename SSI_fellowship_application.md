@@ -62,10 +62,13 @@ Slides built with cicero.xyz
 
 # Why am I applying for the fellowship
 
+<br>
+<br>
+
 .center[
 <img src="img/RSE_wondering.png"
      alt="CodeRefinery logo"
-     style="height: 300px;"/>
+     style="height: 200px;"/>
 ]
 
 ---
@@ -89,4 +92,8 @@ Slides built with cicero.xyz
 <br>
 <br>
 
-# Thank you for your time and consideration!
+.center[
+
+## Thank you for your time and consideration!
+
+]
